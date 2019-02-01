@@ -1,2 +1,2 @@
 # HelloKotlin
-a sample app
+a simple app
